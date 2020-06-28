@@ -9,7 +9,7 @@ Der Star ist mal wieder nur eine Seite im Internet. Einer der vielen, ungezaehlt
 Sonst noch was?
 Vielleicht in Englisch?
 
-
+<img src="https://www.dw.com/image/16371902_304.jpg"/>
 > Auf der Suche nach Glueck
 > Wo wollen wir denn hin,
 > wenn nicht zu uns zurueck
